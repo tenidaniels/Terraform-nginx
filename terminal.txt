@@ -1,0 +1,3 @@
+terraform init #to initialize terraform
+terraform apply #to apply changes as planned
+terraform destroy  #to destroy changes
